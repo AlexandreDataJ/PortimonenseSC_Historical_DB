@@ -49,6 +49,8 @@ The relationship flow follows this logic:
 
     Execute the script to populate the tables.
 
+---
+
 ## License
 
 This project is open-source and intended for Portimonense fans and data enthusiasts.
